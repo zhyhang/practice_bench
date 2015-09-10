@@ -8,7 +8,7 @@
 %define loop_count 100
 
 ; temp hardcode 1000 long i.e. 8000
-%define loop_length 16000
+%define loop_length 24000
 
 ; input rdi:JENV*,rax:JENV*->GetPrimitiveArrayCritical*,rdx:jarray
 ; ouput rax
